@@ -4,8 +4,10 @@ Command line application for starting continuous checks on an instagram user's p
 
 Boiling.py:
   Functions to do with beautifulsoup, grabbing html.
+  
 Mirepoix.py:
   Handles checking functions, translation, and command line serving. 
+  
 Consomme.py:
   Email functionality.
   
